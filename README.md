@@ -15,7 +15,7 @@ This is a basic note taking app that allows the user to add and remove notes to 
 #####To clone the repository:
 
 ```
-$ git clone https://github.com/Jessawynne/ionic-jotter-app
+$ git clone https://github.com/Jessawynne/ionic-jotter-app.git
 $ cd ./ionic-jotter-app/
 ```
 
