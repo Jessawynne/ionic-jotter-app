@@ -19,6 +19,7 @@ git clone https://github.com/Jessawynne/ionic-jotter-app
 ``` 
 cd ./ionic-jotter-app/
 bower install
+npm install
 ```
 
 #####To view app in browser:
